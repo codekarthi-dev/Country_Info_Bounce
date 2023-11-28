@@ -34,7 +34,7 @@ This is a simple React frontend application that allows users to input a country
     Run the frontend:
 
     npm start
-    The frontend will be accessible at http://localhost:3000.
+    The frontend will be accessible at https://frontend-bounce.onrender.com
 
 2.  Open another terminal, navigate to the backend directory, and repeat steps 3-4 for the backend:
 
@@ -43,7 +43,7 @@ This is a simple React frontend application that allows users to input a country
     cd ../backend
     npm install
     npm start
-    The backend will be running at http://localhost:5000.
+    The backend will be running at https://bounce-backend-2ps6.onrender.com/
 
 # Usage
 Open your browser and go to http://localhost:3000.
